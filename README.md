@@ -1,6 +1,7 @@
 # Souvenir-PCB-Tailsmans-of-Horse-
 置顶感谢GitHub上一位“Cyrus-Chioa”的作者，在我的视角里，是他推动了十二生肖符咒跟PCB板的结合，这个创意给我这个作品提供了很好的灵感。
 Thanks for the up"Cyrus-Chioa",he's the first person as I see.
+
 今年是中国传统马年，设计了一个非常好看的艺术品PCB，并且采用了巧妙的设计方案 / This year is the traditional Chinese Year of the Horse. A very beautiful artwork PCB has been designed and an ingenious design scheme has been adopted.
 
 图案来自央视春晚的“骐骥驰骋”。Source of inspiration "骐骥驰骋"(China CCTV)
